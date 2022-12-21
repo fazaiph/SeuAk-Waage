@@ -1,0 +1,1 @@
+Dies ist die Abgabe des Sensoren und Aktoren Labors 1 zur Küchenwaage von Ibrahim Al Askar, Nikita Tezlaff, Fabian Zaiser.
